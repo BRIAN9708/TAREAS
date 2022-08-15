@@ -1,0 +1,9 @@
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\bin\Debug\Calculadora Basica Lab.exe
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\bin\Debug\Calculadora Basica Lab.pdb
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\bin\Debug\Calculadora Basica Lab.xml
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\Calculadora Basica Lab.vbproj.GenerateResource.Cache
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\Calculadora Basica Lab.exe
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\Calculadora Basica Lab.xml
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Calculadora Basica Lab\Calculadora Basica Lab\obj\x86\Debug\Calculadora Basica Lab.pdb
