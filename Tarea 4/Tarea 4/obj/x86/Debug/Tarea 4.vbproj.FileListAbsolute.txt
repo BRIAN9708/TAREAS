@@ -1,0 +1,9 @@
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\bin\Debug\Tarea 4.exe
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\bin\Debug\Tarea 4.pdb
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\bin\Debug\Tarea 4.xml
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\Tarea 4.vbproj.GenerateResource.Cache
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\Tarea 4.exe
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\Tarea 4.xml
+C:\Users\Brian.BRIAN-PC\Desktop\Progra092\Tarea 4\Tarea 4\obj\x86\Debug\Tarea 4.pdb
